@@ -1,3 +1,1 @@
-# preview3d
-
-book
+# cube3d
